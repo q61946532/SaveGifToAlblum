@@ -1,4 +1,4 @@
-//
+//  local
 //  JWGifFrame.h
 //  SaveGifToAlblum
 //
