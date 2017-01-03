@@ -1,4 +1,4 @@
-//
+//  master
 //  JWGifDecoder.h
 //  SaveGifToAlblum
 //
